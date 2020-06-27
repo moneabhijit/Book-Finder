@@ -1,29 +1,7 @@
-.note
-{
-    text-align: center;
-    height: 80px;
-    background: -webkit-linear-gradient(left, #ccd4df, #2f2e30);
-    color: rgb(19, 14, 14);
-    font-weight: bold;
-    line-height: 80px;
-}
-.form-content
-{
-    padding: 5%;
-    border: 1px solid #ced4da;
-    margin-bottom: 2%;
-    
-}
-.form-control {
-    border-radius:2.5rem;
-}
-.btnSubmit
-{
-    border:none;
-    border-radius:1.5rem;
-    padding: 0.5%;
-    width: 20%;
-    cursor: pointer;
-    background: green;
-    color: #fff;
-}
+.bg-banner {
+    background-image: url("../../assets/images/reg-form-1.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
